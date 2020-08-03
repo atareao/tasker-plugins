@@ -27,7 +27,7 @@ import datetime
 import os
 from pathlib import Path
 
-import todotxtio.todotxtio as todotxtio
+import todotxtio
 from basegraph import BaseGraph
 from configurator import Configuration
 

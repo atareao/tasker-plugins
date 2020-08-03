@@ -9,7 +9,7 @@ from pathlib import Path
 # Custom featured needed
 import gi
 import pluggy
-import todotxtio.todotxtio as todotxtio
+import todotxtio
 from alert import Alert
 from configurator import Configuration
 from gi.repository import Gtk

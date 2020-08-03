@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 import pluggy
-import todotxtio.todotxtio as todotxtio
+import todotxtio
 from configurator import Configuration
 
 # Custom featured needed
